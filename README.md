@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with React and Typescript
 - 🌱 I’m currently learning ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmenezes0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmenezes0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
