@@ -32,3 +32,12 @@ Here are some ideas to get you started:
 
 ```
 
+<details>
+  <summary>This is the music I'm currently into 🎵 </summary>
+  <br/>
+  <img src="https://www.tapmusic.net/collage.php?user=luan122&type=3month&size=3x3&caption=true" height="400" />
+</details>
+
+
+
+
